@@ -1,0 +1,7 @@
+{
+  "extends": "astro/tsconfigs/strictest",
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "ignoreDeprecations": "5.0"
+  },
+}

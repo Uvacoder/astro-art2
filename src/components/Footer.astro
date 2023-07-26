@@ -1,0 +1,13 @@
+---
+import { PERSONAL_INFO } from "../consts";
+
+const year = new Date().getFullYear();
+---
+
+<footer>
+  <div class="flex flex-col items-center mt-12 gap-4 mb-6">
+    <div class="text-gray-500 text-sm text-center">
+      © {year} - {PERSONAL_INFO.name}
+    </div>
+  </div>
+</footer>
