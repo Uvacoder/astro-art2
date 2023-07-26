@@ -12,16 +12,16 @@ export const SOCIAL = [
     href: "https://ricardochu.com",
     icon: "mdi:web",
   },
-  {
-    label: "GitHub",
-    href: "https://github.com/kypexfly",
-    icon: "mdi:github",
-  },
-  {
-    label: "LinkedIn",
-    href: "https://www.linkedin.com/in/ricardochuzheng/",
-    icon: "mdi:linkedin",
-  },
+  // {
+  //   label: "GitHub",
+  //   href: "https://github.com/kypexfly",
+  //   icon: "mdi:github",
+  // },
+  // {
+  //   label: "LinkedIn",
+  //   href: "https://www.linkedin.com/in/ricardochuzheng/",
+  //   icon: "mdi:linkedin",
+  // },
 ] as const;
 
 export const PERSONAL_INFO = {
