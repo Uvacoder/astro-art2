@@ -13,6 +13,11 @@ export const SOCIAL = [
     icon: "mdi:web",
   },
    {
+    label: "Twitter",
+     href: "https://twitter.com/uvacoder",
+     icon: "mdi:bird",
+   },
+   {
     label: "GitHub",
      href: "https://github.com/uvacoder",
      icon: "mdi:github",
@@ -21,6 +26,11 @@ export const SOCIAL = [
      label: "LinkedIn",
      href: "https://www.linkedin.com/in/alecbcampbell/",
      icon: "mdi:linkedin",
+   },
+   {
+    label: "Dev.to",
+     href: "https://dev.to/uvacoder",
+     icon: "mdi:dev-to",
    },
 ] as const;
 
